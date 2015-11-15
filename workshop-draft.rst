@@ -145,6 +145,43 @@
 
     * 事前にアンケート取ると良さそう
 
+* 具体的な進め方
+
+  * 三つのクラスの希望人数で, 6〜8人のチーム 5〜7つくらいに編成する. (チーム内は同じクラス)
+
+    * 基礎文法クラス
+    * 雛形拡張クラス
+    * 自由課題クラス
+
+  * いずれのクラスも TA に随時質問してよいが, チームメンバーとのコミュニケーションも推奨.
+  * 基礎文法クラス
+
+    * 初級者向け.
+    * リファレンスを見ながら, よくあるプログラミング課題を解く.
+    * リファレンス: `ClojureBridge <http://https://clojurebridge.github.io/community-docs/>`_ が良いと思われる.
+    * 課題:
+
+      * `FibBuzz <https://gist.github.com/kohyama/10346936>`_
+      * `Nクイーン問題 <https://gist.github.com/kohyama/6068926>`_
+      * `文字列を先頭から見て同じところまで除去 <https://gist.github.com/kohyama/5857345>`_
+      * `回文の発掘 <http://qiita.com/kohyama/items/183ca328fc57a71fb282>`_
+      * `フォークじゃない <http://qiita.com/kohyama/items/04f32f4cd1f90fe5d626>`_
+
+  * 雛形拡張クラス
+ 
+    * 中級者向け.
+    * 用意された雛形プログラムの動作原理を踏まえ, 機能を拡張することを課題とする.
+    * 雛形:
+
+      * TODO管理ウェブアプリ (ayato-p さん計画中)
+      * `ハノイの塔アニメ3種 <https://github.com/kohyama/clj-animation-towerofhanoi>`_ (のうちターミナル版)
+      * `ぷよぷよ連鎖 <https://gist.github.com/kohyama/6069032>`_
+
+  * 自由課題クラス
+
+    * 上級者向け.
+    * 自分で決めた課題を行う.
+
 * 懇親会
 
   * 後で考える
